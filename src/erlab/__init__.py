@@ -1,3 +1,3 @@
-__version__ = "2.8.2"
+__version__ = "1.0.0"
 
 import erlab.accessors  # noqa: F401
